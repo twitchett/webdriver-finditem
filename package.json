@@ -1,0 +1,14 @@
+{
+  "name": "webdriver-finditem",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test --reporter=spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tap": "^10.3.1"
+  }
+}
